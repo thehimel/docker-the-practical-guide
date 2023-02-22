@@ -1,2 +1,8 @@
 # docker-the-practical-guide
-A note of the Docker part of  Docker &amp; Kubernetes: The Practical Guide
+
+* [Docker & Kubernetes: The Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
+
+## About
+
+This repository covers the notes for the above-mentioned course.
+
